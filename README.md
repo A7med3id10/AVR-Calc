@@ -7,3 +7,5 @@ The calculator can perform:
 - subtraction
 - multiplication
 - integer division
+## Schematic
+![Circuit](schematic.png)
